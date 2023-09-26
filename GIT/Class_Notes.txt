@@ -10,6 +10,7 @@ DAY - 1 - 5th Aug. 2023
 
 
 		Introduction to DevOps !!!
+
 		
 		Fundamentals of DevOps :::
 		
@@ -371,7 +372,8 @@ DAY - 2 - 6th Aug. 2023
 							If there are any changes exist, The incremental changes will be updated only the local repo.
 			
 			git pull 	==> It is used to check if there is any incremental changes present in remote repo.
-							If there are any changes exist, The incremental changes will be updated in the local repo. as well as in the working dir.
+							If there are any changes exist, The incremental changes will be updated in the local repo. 
+						as well as in the working dir.
 							===> git fetch + git merge
 			
 			
